@@ -4,7 +4,15 @@ body{
     background-color:#a8dadc ;
     font-family:'Playfair Display', serif;
     display: flex;
+   
+}
+  nav{
+      display: flex;
+      flex-direction: row;
+     
+     
+  }
+  main{
     justify-content: center;
     align-items:center;
-}
-  
+  }
